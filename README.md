@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 &nbsp;Computer Science student at **FAST NUCES** (2024-2028) with a strong foundation in mathematics.
-- 🤖 &nbsp;Passionate about **AI and Data Science**[cite: 9].
+- 🤖 &nbsp;Passionate about **AI and Data Science**.
 - 🧩 &nbsp;Enjoys solving complex problems using data-driven approaches to build practical solutions.
 - 🌱 &nbsp;Driven by curiosity and continuous learning to create meaningful impact through technology.
 - 📍 &nbsp;Based in Karachi, Pakistan.
