@@ -34,10 +34,10 @@
 
 ### 🏆 Awards & Certifications
 
-- 🏅 &nbsp;**Dean's List of Honour**: Fall '24, Spring '25, and Fall '25[cite: 31, 32, 34].
-- 🏆 &nbsp;**Coders Cup**: Secured top positions in both 2024 and 2025[cite: 43, 44].
-- 📜 &nbsp;**Python for Everybody**: Specialization Certificate[cite: 36].
-- 📊 &nbsp;**Google Data Analytics**: Professional Certificate[cite: 41, 42].
+- 🏅 &nbsp;**Dean's List of Honour**: Fall '24, Spring '25, and Fall '25.
+- 🏆 &nbsp;**Coders Cup**: Secured top positions in both 2024 and 2025.
+- 📜 &nbsp;**Python for Everybody**: Specialization Certificate.
+- 📊 &nbsp;**Google Data Analytics**: Professional Certificate.
 
 ---
 
