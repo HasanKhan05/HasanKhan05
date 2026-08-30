@@ -22,8 +22,6 @@
 
 </div>
 
-## `> whoami`
-
 I’m a Computer Science student at **FAST-NUCES (2024–2028)** with a strong foundation in mathematics and a growing interest in **Artificial Intelligence, Data Science, Cybersecurity, and AI Security**. I’m curious not only about how intelligent systems are built, but also about how they can fail, be attacked, and be made more secure and trustworthy.
 
 I enjoy turning ideas into practical software with **Python, C++, the MERN stack, FastAPI, and PostgreSQL**. My work and learning bring together data-driven problem solving, software development, and security as I continue exploring how modern intelligent systems behave in real-world environments.
@@ -103,10 +101,6 @@ learn → build → test → break → understand → secure → repeat
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanKhan05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&ring_color=FF7A00" alt="HasanKhan05 GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKhan05&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF" alt="HasanKhan05 most-used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=HasanKhan05&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="HasanKhan05 contribution streak" />
 
 <br />
 
