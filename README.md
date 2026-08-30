@@ -51,25 +51,6 @@ learn → build → test → break → understand → secure → repeat
   <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/animated-security-lab.svg" alt="Animated AI security lab connecting models, data, software, and security" />
 </div>
 
-<details>
-<summary><b>🧪 Open the Lab Console</b></summary>
-<br />
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/animated-terminal.svg" alt="Animated terminal showing a continuous learn, build, test, and secure workflow" />
-</div>
-
-<table>
-  <tr>
-    <td align="center"><strong>LEARN</strong><br />AI systems and threat models</td>
-    <td align="center"><strong>BUILD</strong><br />Software, APIs, and experiments</td>
-    <td align="center"><strong>TEST</strong><br />Assumptions and system boundaries</td>
-    <td align="center"><strong>SECURE</strong><br />Reliable, trustworthy outcomes</td>
-  </tr>
-</table>
-
-</details>
-
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/pulse-divider.svg" alt="Animated orange circuit divider" />
 </div>
@@ -80,26 +61,15 @@ learn → build → test → break → understand → secure → repeat
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=FF7A00" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-666666?style=flat-square&logo=cplusplus&logoColor=FF7A00" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=FF7A00" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-666666?style=flat-square&logo=html5&logoColor=FF7A00" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1C1C1C?style=flat-square&logo=css3&logoColor=FF7A00" alt="CSS3" />
+<img height="55" src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css&theme=dark" alt="Python, C++, JavaScript, HTML, and CSS" />
 
 ### Frameworks & Runtime
 
-<img src="https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=FF7A00" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-666666?style=flat-square&logo=nodedotjs&logoColor=FF7A00" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-1C1C1C?style=flat-square&logo=express&logoColor=FF7A00" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-666666?style=flat-square&logo=fastapi&logoColor=FF7A00" alt="FastAPI" />
+<img height="55" src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" alt="React, Node.js, Express, and FastAPI" />
 
 ### Data & Tools
 
-<img src="https://img.shields.io/badge/MongoDB-1C1C1C?style=flat-square&logo=mongodb&logoColor=FF7A00" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-666666?style=flat-square&logo=postgresql&logoColor=FF7A00" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Git-1C1C1C?style=flat-square&logo=git&logoColor=FF7A00" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-666666?style=flat-square&logo=github&logoColor=FF7A00" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-1C1C1C?style=flat-square&logo=visualstudiocode&logoColor=FF7A00" alt="Visual Studio Code" />
+<img height="55" src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark" alt="MongoDB, PostgreSQL, Git, GitHub, and Visual Studio Code" />
 
 </div>
 
