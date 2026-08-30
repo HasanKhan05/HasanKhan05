@@ -1,23 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff7a00,100:111111&height=220&section=header&text=Muhammad%20Hasan%20Dad%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20FAST-NUCES&descAlignY=58&descSize=18" alt="Muhammad Hasan Dad Khan header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:666666,100:FF7A00&height=220&section=header&text=Muhammad%20Hasan%20Dad%20Khan&fontSize=40&fontColor=D3D3D3&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20FAST-NUCES&descAlignY=58&descSize=18" alt="Muhammad Hasan Dad Khan header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=FF7A00&center=true&vCenter=true&width=800&lines=Exploring+AI+Security+%F0%9F%94%90;Building+Secure%2C+Intelligent+Systems+%F0%9F%A7%A0;Artificial+Intelligence+%E2%80%A2+Data+Science;Software+Development+%E2%80%A2+Cybersecurity;Learning.+Building.+Breaking.+Securing." alt="Animated typing introduction" />
-</a>
-
-<br />
-
-<a href="https://www.linkedin.com/in/muhammad-hasan-dad-khan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:hasandadkhan05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/HasanKhan05?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
 </a>
 
 </div>
@@ -61,50 +47,65 @@ learn → build → test → break → understand → secure → repeat
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css&theme=dark" alt="Python, C++, JavaScript, HTML, and CSS" />
+<img src="https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=FF7A00" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-666666?style=flat-square&logo=cplusplus&logoColor=FF7A00" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=FF7A00" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-666666?style=flat-square&logo=html5&logoColor=FF7A00" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1C1C1C?style=flat-square&logo=css3&logoColor=FF7A00" alt="CSS3" />
 
 ### Frameworks & Runtime
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" alt="React, Node.js, Express, and FastAPI" />
+<img src="https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=FF7A00" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-666666?style=flat-square&logo=nodedotjs&logoColor=FF7A00" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-1C1C1C?style=flat-square&logo=express&logoColor=FF7A00" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-666666?style=flat-square&logo=fastapi&logoColor=FF7A00" alt="FastAPI" />
 
 ### Data & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark" alt="MongoDB, PostgreSQL, Git, GitHub, and VS Code" />
+<img src="https://img.shields.io/badge/MongoDB-1C1C1C?style=flat-square&logo=mongodb&logoColor=FF7A00" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-666666?style=flat-square&logo=postgresql&logoColor=FF7A00" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Git-1C1C1C?style=flat-square&logo=git&logoColor=FF7A00" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-666666?style=flat-square&logo=github&logoColor=FF7A00" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-1C1C1C?style=flat-square&logo=visualstudiocode&logoColor=FF7A00" alt="Visual Studio Code" />
 
 </div>
 
-<details>
-<summary><b>🏆 Awards & certifications</b></summary>
-<br />
+## 🏅 Awards & Certifications
 
-- **Dean’s List of Honour:** Fall 2024, Spring 2025, and Fall 2025
-- **Coders Cup:** Top positions in 2024 and 2025
-- **Python for Everybody:** Specialization Certificate
-- **Google Data Analytics:** Professional Certificate
-
-</details>
-
-<details>
-<summary><b>🌱 What I’m growing toward</b></summary>
-<br />
-
-- Stronger foundations in machine learning and cybersecurity
-- Practical experience evaluating the reliability and security of AI systems
-- Research-minded engineering backed by clear experiments and reproducible results
-- Secure, useful software that solves real problems
-
-</details>
+<table>
+  <tr>
+    <td width="42%" valign="top">
+      <h3>🏆 Awards & Honours</h3>
+      <p>
+        <strong>Dean’s List of Honour</strong><br />
+        Fall 2024 • Spring 2025 • Fall 2025 • Spring 2026
+      </p>
+      <p>
+        <strong>Coders Cup</strong><br />
+        Top positions in 2024 and 2025
+      </p>
+    </td>
+    <td width="58%" valign="top">
+      <h3>📜 Certifications</h3>
+      <p><strong>Machine Learning Specialization</strong> — DeepLearning.AI</p>
+      <p><strong>AI Security</strong> — TryHackMe</p>
+      <p><strong>Pre Security</strong> — TryHackMe</p>
+      <p><strong>Python for Everybody</strong> — Specialization Certificate</p>
+      <p><strong>Google Data Analytics</strong> — Professional Certificate</p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub in Motion
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanKhan05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&ring_color=FF7A00" alt="HasanKhan05 GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKhan05&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF" alt="HasanKhan05 most-used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanKhan05&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=FF7A00&icon_color=FF7A00&text_color=D3D3D3&ring_color=FF7A00" alt="HasanKhan05 GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKhan05&layout=compact&hide_border=true&bg_color=1C1C1C&title_color=FF7A00&text_color=D3D3D3" alt="HasanKhan05 most-used languages" />
 
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasanKhan05&bg_color=0d1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" alt="HasanKhan05 contribution activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasanKhan05&bg_color=1C1C1C&color=D3D3D3&line=FF7A00&point=F2F2F2&area=true&hide_border=true" alt="HasanKhan05 contribution activity graph" />
 
 </div>
 
@@ -127,13 +128,13 @@ If you’re working on **AI, data science, cybersecurity, AI security, or though
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-hasan-dad-khan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Hasan_Dad_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1C1C1C?style=flat-square&logo=linkedin&logoColor=FF7A00" alt="LinkedIn profile" />
 </a>
 <a href="mailto:hasandadkhan05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hasandadkhan05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email address" />
+  <img src="https://img.shields.io/badge/Email-Say_Hello-666666?style=flat-square&logo=gmail&logoColor=FF7A00" alt="Email address" />
 </a>
-<a href="https://github.com/HasanKhan05">
-  <img src="https://img.shields.io/badge/GitHub-%40HasanKhan05-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+<a href="https://github.com/HasanKhan05?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-FF7A00?style=flat-square&logo=github&logoColor=1C1C1C" alt="Explore GitHub projects" />
 </a>
 
 <br /><br />
@@ -144,6 +145,6 @@ If you’re working on **AI, data science, cybersecurity, AI security, or though
 
 <sub>Curiosity writes the first line. Consistency ships the project.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff7a00,100:111111&height=120&section=footer" alt="Orange and black footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:666666,100:FF7A00&height=120&section=footer" alt="Dark grey, light grey, and orange footer" />
 
 </div>
