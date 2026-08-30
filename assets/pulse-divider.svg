@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="42" viewBox="0 0 900 42" role="img" aria-labelledby="title desc">
+  <title id="title">Animated circuit divider</title>
+  <desc id="desc">Orange signals travel across a dark grey circuit line.</desc>
+  <defs>
+    <filter id="dividerGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="42" fill="#1C1C1C" opacity="0.01" />
+  <path d="M20 21 H385 L405 7 H495 L515 21 H880" fill="none" stroke="#666666" stroke-width="2" stroke-dasharray="7 7">
+    <animate attributeName="stroke-dashoffset" from="28" to="0" dur="2s" repeatCount="indefinite" />
+  </path>
+  <circle cx="450" cy="21" r="6" fill="#D3D3D3" stroke="#FF7A00" stroke-width="2">
+    <animate attributeName="r" values="5;10;5" dur="1.8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <g fill="#FF7A00" filter="url(#dividerGlow)">
+    <circle r="4"><animateMotion path="M20 21 H385 L405 7 H450" dur="2.6s" repeatCount="indefinite" /></circle>
+    <circle r="4"><animateMotion path="M880 21 H515 L495 7 H450" dur="2.6s" begin="1.3s" repeatCount="indefinite" /></circle>
+  </g>
+</svg>

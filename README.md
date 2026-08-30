@@ -22,6 +22,10 @@ learn → build → test → break → understand → secure → repeat
 
 </div>
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/pulse-divider.svg" alt="Animated orange circuit divider" />
+</div>
+
 ## 🧭 Current Focus
 
 <table>
@@ -40,6 +44,35 @@ learn → build → test → break → understand → secure → repeat
     </td>
   </tr>
 </table>
+
+## ⚡ Interactive AI Security Lab
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/animated-security-lab.svg" alt="Animated AI security lab connecting models, data, software, and security" />
+</div>
+
+<details>
+<summary><b>🧪 Open the Lab Console</b></summary>
+<br />
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/animated-terminal.svg" alt="Animated terminal showing a continuous learn, build, test, and secure workflow" />
+</div>
+
+<table>
+  <tr>
+    <td align="center"><strong>LEARN</strong><br />AI systems and threat models</td>
+    <td align="center"><strong>BUILD</strong><br />Software, APIs, and experiments</td>
+    <td align="center"><strong>TEST</strong><br />Assumptions and system boundaries</td>
+    <td align="center"><strong>SECURE</strong><br />Reliable, trustworthy outcomes</td>
+  </tr>
+</table>
+
+</details>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/pulse-divider.svg" alt="Animated orange circuit divider" />
+</div>
 
 ## 🛠️ Tech Toolbox
 
@@ -96,17 +129,8 @@ learn → build → test → break → understand → secure → repeat
   </tr>
 </table>
 
-## 📊 GitHub in Motion
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanKhan05&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=FF7A00&icon_color=FF7A00&text_color=D3D3D3&ring_color=FF7A00" alt="HasanKhan05 GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKhan05&layout=compact&hide_border=true&bg_color=1C1C1C&title_color=FF7A00&text_color=D3D3D3" alt="HasanKhan05 most-used languages" />
-
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasanKhan05&bg_color=1C1C1C&color=D3D3D3&line=FF7A00&point=F2F2F2&area=true&hide_border=true" alt="HasanKhan05 contribution activity graph" />
-
+  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/pulse-divider.svg" alt="Animated orange circuit divider" />
 </div>
 
 ## 🐍 Contributions, Animated
@@ -121,6 +145,10 @@ learn → build → test → break → understand → secure → repeat
 
 </div>
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HasanKhan05/HasanKhan05/main/assets/pulse-divider.svg" alt="Animated orange circuit divider" />
+</div>
+
 ## 🤝 Let’s Connect
 
 If you’re working on **AI, data science, cybersecurity, AI security, or thoughtful software engineering**, I’d be glad to connect and learn what you’re building.
@@ -131,7 +159,7 @@ If you’re working on **AI, data science, cybersecurity, AI security, or though
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1C1C1C?style=flat-square&logo=linkedin&logoColor=FF7A00" alt="LinkedIn profile" />
 </a>
 <a href="mailto:hasandadkhan05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-666666?style=flat-square&logo=gmail&logoColor=FF7A00" alt="Email address" />
+  <img src="https://img.shields.io/badge/Email-hasandadkhan05%40gmail.com-666666?style=flat-square&logo=gmail&logoColor=FF7A00" alt="Email hasandadkhan05@gmail.com" />
 </a>
 <a href="https://github.com/HasanKhan05?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-Explore-FF7A00?style=flat-square&logo=github&logoColor=1C1C1C" alt="Explore GitHub projects" />

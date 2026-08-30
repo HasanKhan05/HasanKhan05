@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="title desc">
+  <title id="title">Animated learning and building terminal</title>
+  <desc id="desc">A terminal cycles through learning, building, testing, and securing intelligent systems.</desc>
+  <defs>
+    <linearGradient id="terminalPanel" x1="0" x2="1">
+      <stop offset="0" stop-color="#1C1C1C" />
+      <stop offset="1" stop-color="#666666" stop-opacity="0.22" />
+    </linearGradient>
+    <filter id="terminalGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="228" rx="18" fill="url(#terminalPanel)" stroke="#666666" stroke-width="2" />
+  <rect x="1" y="1" width="898" height="38" rx="18" fill="#1C1C1C" />
+  <line x1="1" y1="39" x2="899" y2="39" stroke="#666666" />
+  <circle cx="24" cy="20" r="6" fill="#FF7A00"><animate attributeName="opacity" values="0.45;1;0.45" dur="2s" repeatCount="indefinite" /></circle>
+  <circle cx="45" cy="20" r="6" fill="#666666" />
+  <circle cx="66" cy="20" r="6" fill="#D3D3D3" />
+  <text x="450" y="25" fill="#D3D3D3" font-family="monospace" font-size="12" text-anchor="middle">hasan@ai-security-lab: ~/current-mission</text>
+
+  <g font-family="monospace" font-size="15">
+    <text x="35" y="72" fill="#FF7A00">$</text>
+    <text x="55" y="72" fill="#D3D3D3">run secure-intelligence --continuous</text>
+
+    <text x="55" y="108" fill="#D3D3D3">[01] learning threat models and intelligent systems</text>
+    <circle cx="808" cy="103" r="5" fill="#FF7A00" filter="url(#terminalGlow)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite" />
+    </circle>
+
+    <text x="55" y="137" fill="#D3D3D3">[02] building dependable software and APIs</text>
+    <circle cx="808" cy="132" r="5" fill="#FF7A00" filter="url(#terminalGlow)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" begin="0.35s" repeatCount="indefinite" />
+    </circle>
+
+    <text x="55" y="166" fill="#D3D3D3">[03] testing assumptions, models, and boundaries</text>
+    <circle cx="808" cy="161" r="5" fill="#FF7A00" filter="url(#terminalGlow)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" begin="0.7s" repeatCount="indefinite" />
+    </circle>
+
+    <text x="55" y="195" fill="#D3D3D3">[04] securing what ships</text>
+    <rect x="270" y="181" width="10" height="18" fill="#FF7A00">
+      <animate attributeName="opacity" values="1;0;1" dur="0.85s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <rect x="35" y="211" width="830" height="3" rx="1.5" fill="#666666" />
+  <rect x="35" y="211" width="150" height="3" rx="1.5" fill="#FF7A00" filter="url(#terminalGlow)">
+    <animate attributeName="x" values="35;715;35" dur="4.5s" repeatCount="indefinite" />
+  </rect>
+</svg>
